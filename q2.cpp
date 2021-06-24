@@ -97,5 +97,4 @@ int main()
     cout << "The Maximum sum path is ";
 
     printPath(root, sum);
-    return 0;
 }
